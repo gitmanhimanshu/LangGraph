@@ -1,0 +1,5 @@
+huggingface_hub
+gradio
+python-dotenv
+pillow
+requests
